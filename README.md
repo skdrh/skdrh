@@ -13,13 +13,10 @@
 ## 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skdrh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&rank_icon=github&count_private=true" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=skdrh&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" width="49%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skdrh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8&count_private=true" width="49%" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=skdrh&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="49%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=skdrh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&rank_icon=github&count_private=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=skdrh&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skdrh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8&count_private=true" />
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=skdrh&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
 </div>
 
 
