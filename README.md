@@ -4,7 +4,7 @@
 
 ### Product Builder • Full-Stack Engineer • TypeScript Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Building+scalable+web+applications;Shipping+MVPs+to+production;Building+products+from+scratch;SNext.js+%7C+Zustand+%7C+;MongoDB+%7C+Drizzle+%7C+BetterAuth)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Building+scalable+web+applications;Shipping+MVPs+to+production;Building+products+from+scratch;Next.js+%7C+Zustand+%7C+Postgresql;MongoDB+%7C+Drizzle+%7C+BetterAuth)](https://git.io/typing-svg)
 
 </div>
 
