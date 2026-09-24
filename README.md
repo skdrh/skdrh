@@ -2,12 +2,12 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-    <img alt="Salman Khan (@skdrh_ on X): product builder and full-stack engineer. Currently building Bizstock. 8+ years building, 30+ projects delivered." src="./assets/hero-light.svg" width="100%">
+    <img alt="Salman Khan (skdrh_ on X): product builder and full-stack engineer. Currently building Bizstock. 8+ years building, 30+ projects delivered." src="./assets/hero-light.svg" width="100%">
   </picture>
 </a>
 
 <p align="center">
-  <a href="https://x.com/skdrh_"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/links/x-dark.svg"><img alt="X: @skdrh_" src="./assets/links/x-light.svg"></picture></a>
+  <a href="https://x.com/skdrh_"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/links/x-dark.svg"><img alt="X: skdrh_" src="./assets/links/x-light.svg"></picture></a>
   <a href="https://www.linkedin.com/in/skdrh/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/links/linkedin-dark.svg"><img alt="LinkedIn: skdrh" src="./assets/links/linkedin-light.svg"></picture></a>
   <a href="https://salman.dragondevs.co"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/links/portfolio-dark.svg"><img alt="Portfolio: salman.dragondevs.co" src="./assets/links/portfolio-light.svg"></picture></a>
   <a href="https://dragondevs.co"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/links/dragondevs-dark.svg"><img alt="dragondevs.co" src="./assets/links/dragondevs-light.svg"></picture></a>
