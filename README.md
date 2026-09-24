@@ -16,7 +16,7 @@
 
 ### Hey, I'm Salman 👋
 
-I build products from scratch: the idea, the UI, the API, the database, even the deploy script. Bring me a real problem and I'll hand you back a real product, fast.
+I build products end to end: the idea, the scalable architecture, the UI, the API, the database, the AI, even the deploy script. Bring me a real problem and I'll hand you back a real product, fast.
 
 8+ years and 30+ projects in, I'm now building **[dragondevs.co](https://dragondevs.co)**, a company that makes useful digital products and takes them global. 🐉
 
@@ -44,7 +44,7 @@ I build products from scratch: the idea, the UI, the API, the database, even the
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg">
-  <img alt="Frontend: TypeScript, Next.js, React, Zustand, Tailwind CSS, shadcn/ui, Framer Motion. Backend and auth: Node.js, Express, tRPC, GraphQL, Better Auth, Python, Django. Data: PostgreSQL, MongoDB, MySQL, Drizzle, Prisma, Mongoose. Ship and design: Docker, Nginx, Linux, GitHub Actions, Vercel, Figma." src="./assets/stack-light.svg" width="100%">
+  <img alt="Frontend: TypeScript, Next.js, React, Zustand, Tailwind CSS, shadcn/ui, Framer Motion. Backend and auth: Node.js, Express, tRPC, GraphQL, Better Auth, Python, Django. Data: PostgreSQL, MongoDB, MySQL, Drizzle, Prisma, Mongoose. Ship and design: Docker, Nginx, Linux, GitHub Actions, Vercel, Figma. AI models: OpenAI, Claude, Gemini, Ollama. Build with: Vercel AI SDK, MCP, Hugging Face. Code with: Claude Code, Cursor, Codex." src="./assets/stack-light.svg" width="100%">
 </picture>
 
 ### 🧭 How I work
