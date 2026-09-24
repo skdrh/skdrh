@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="https://x.com/skdrh_"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/links/x-dark.svg"><img alt="X: @skdrh_" src="./assets/links/x-light.svg"></picture></a>
+  <a href="https://www.linkedin.com/in/skdrh/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/links/linkedin-dark.svg"><img alt="LinkedIn: skdrh" src="./assets/links/linkedin-light.svg"></picture></a>
   <a href="https://salman.dragondevs.co"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/links/portfolio-dark.svg"><img alt="Portfolio: salman.dragondevs.co" src="./assets/links/portfolio-light.svg"></picture></a>
   <a href="https://dragondevs.co"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/links/dragondevs-dark.svg"><img alt="dragondevs.co" src="./assets/links/dragondevs-light.svg"></picture></a>
   <a href="https://bizstock.net"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/links/bizstock-dark.svg"><img alt="Bizstock" src="./assets/links/bizstock-light.svg"></picture></a>
